@@ -1,0 +1,17 @@
+{
+    "devices": [
+        {
+            "address": "1.1.1",
+            "status": true
+        },
+        {
+            "address": "1.1.2",
+            "status": true
+        },
+        {
+            "address": "1.1.3",
+            "status": true
+        }
+    ],
+    "hasError": false
+}

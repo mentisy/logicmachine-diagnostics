@@ -1,0 +1,12 @@
+Architecture: all
+Category: Diagnostics
+Description: KNX Diagnostics tool
+Developer: AVolle
+Installed-Size: 60127
+Package: lm-diagnostics
+Title: KNX Diagnostics
+Type: App
+Info:
+Version: 20240624
+Brand: AVolle
+Verified: 0
