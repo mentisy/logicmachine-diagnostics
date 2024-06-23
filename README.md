@@ -2,6 +2,8 @@
 
 A tool for KNX diagnosing on the LogicMachine product.
 
+![Showcase image](https://github.com/mentisy/logicmachine-diagnostics/blob/main/showcase.png)
+
 Will enable you to:
 * Ping devices
 * Restart devices
