@@ -26,7 +26,7 @@ export type SuccessReadResponseType = {
         id: number;
         name: string;
         tagcache: string;
-        units: string;
+        units?: string;
         updatetime: number; // UNIX timestamp
         value: number | string | boolean;
     };

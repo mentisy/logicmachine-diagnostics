@@ -68,7 +68,9 @@ export default function ReadAddress() {
                 status={result}
                 error={error}
                 pending="Reading..."
-                success={response?.responded === true ? `Value: ${response?.info?.value}${response?.info?.units}` : ""}
+                success={
+                    response?.responded === true ? `Value: ${response?.info?.value}${response?.info?.units ?? ""}` : ""
+                }
                 unsuccess="Could not read value"
             />
         </div>
